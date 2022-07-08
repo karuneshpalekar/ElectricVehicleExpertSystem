@@ -1,6 +1,6 @@
 # ElectricVehicleExpertSystem
 
-This system makes use of PyKnow Library for implementing Expert System. The repo can be found here : https://github.com/buguroo/pyknow.The documentation along with examples for the library can be found here : https://github.com/buguroo/pyknow/tree/develop/docs
+This system makes use of PyKnow Library for implementing Expert System. The repo can be found here : https://github.com/buguroo/pyknow. The documentation along with examples for the library can be found here : https://github.com/buguroo/pyknow/tree/develop/docs
 
 To run the above script (Tested on both Colab as well as on system) : 
 
